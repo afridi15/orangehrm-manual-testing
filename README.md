@@ -21,11 +21,11 @@ an open-source HR management system.
 ```
 orangehrm-manual-testing/
 ├── test-plan/
-│   └── test_plan.md
+│   └── test_plan.docx
 ├── test-cases/
-│   └── test_cases.md
+│   └── test_cases.xlsx
 ├── bug-reports/
-│   └── bug_report.md
+│   └── bug_report.xlsx
 └── README.md
 ```
 
@@ -53,7 +53,7 @@ orangehrm-manual-testing/
 
 ## 🐛 Bug Tracking
 
-Bugs documented in `bug-reports/bug_report.md` with:
+Bugs documented in `bug-reports/bug_report.xlsx` with:
 - Bug ID, Title, Module
 - Steps to reproduce
 - Expected vs Actual result
